@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import {HashRouter as Router, Routes, Route, Link} from 'react-router-dom'
 import './App.css';
 import CardComponent from './components/CardComponent';
+
 import HomePage from './pages/HomePage';
 import CardsPage from './pages/CardsPage';
 import TablesPage from './pages/TablesPage';
